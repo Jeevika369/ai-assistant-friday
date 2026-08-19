@@ -1,0 +1,44 @@
+[
+  {
+    "id": "mem_1787143474977",
+    "category": "preference",
+    "key": "Favorite Song",
+    "value": "nothing you should not open nothing",
+    "timestamp": "8/19/2026, 6:14:34 PM"
+  },
+  {
+    "id": "mem_1787139704832",
+    "category": "preference",
+    "key": "Favorite Song",
+    "value": "funk sereno",
+    "timestamp": "19/8/2026, 5:11:44 pm"
+  },
+  {
+    "id": "mem_1",
+    "category": "preference",
+    "key": "Preferred Languages",
+    "value": "JavaScript, Python, TypeScript",
+    "timestamp": "19/8/2026, 1:26:30 pm"
+  },
+  {
+    "id": "mem_2",
+    "category": "project",
+    "key": "Active Project",
+    "value": "Jeevika AI Assistant (Path: c:\\Users\\chakr\\Downloads\\Jeevika)",
+    "timestamp": "19/8/2026, 1:26:30 pm"
+  },
+  {
+    "id": "mem_3",
+    "category": "semantic",
+    "key": "Workflow Preference",
+    "value": "Prefers concise responses and automated test verification before completion",
+    "timestamp": "19/8/2026, 1:26:30 pm"
+  },
+  {
+    "id": "mem_4",
+    "category": "episodic",
+    "key": "Recent Coding Task",
+    "value": "Built glassmorphism UI & Web Audio VAD orb visualizer",
+    "timestamp": "19/8/2026, 1:26:30 pm"
+  }
+]
